@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider\\intermediate\\build\\win64\\unrealeditor\\inc\\crypt_raider\\uht\\tp_pickupcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider\\intermediate\\build\\win64\\crypt_raidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider\\intermediate\\build\\win64\\unrealeditor\\development\\crypt_raider\\definitions.crypt_raider.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider\\source\\crypt_raider\\tp_pickupcomponent.h",
+            "f:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "f:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "f:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "f:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider\\source\\crypt_raider\\crypt_raidercharacter.h",
+            "f:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "f:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "f:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "f:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "f:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "f:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "f:\\games\\ue_5.1\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "f:\\games\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider\\intermediate\\build\\win64\\unrealeditor\\inc\\crypt_raider\\uht\\crypt_raidercharacter.generated.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider\\intermediate\\build\\win64\\unrealeditor\\inc\\crypt_raider\\uht\\tp_pickupcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

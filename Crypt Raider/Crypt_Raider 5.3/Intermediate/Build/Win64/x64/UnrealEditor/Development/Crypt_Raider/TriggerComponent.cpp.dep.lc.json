@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\source\\crypt_raider\\triggercomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\x64\\crypt_raidereditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crypt_raider\\definitions.crypt_raider.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\source\\crypt_raider\\triggercomponent.h",
+            "f:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "f:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "f:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "f:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\unrealeditor\\inc\\crypt_raider\\uht\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

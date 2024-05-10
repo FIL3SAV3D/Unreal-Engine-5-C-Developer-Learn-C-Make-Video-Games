@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Unreal Engine 5 Projects/ToonTanks/Content/Maps/Main.umap",
+				"F:/Unreal Engine 5 Projects/ToonTanks/Content/ComponentsActor.uasset",
+				"F:/Unreal Engine 5 Projects/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"F:/Unreal Engine 5 Projects/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"F:/Unreal Engine 5 Projects/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"F:/Unreal Engine 5 Projects/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset"
+			]
+		}
+	]
+}

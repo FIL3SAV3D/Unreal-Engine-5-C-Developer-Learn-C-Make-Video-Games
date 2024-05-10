@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Unreal Engine 5 Projects/ObstacleAssault/Content/Main.umap",
+				"F:/Unreal Engine 5 Projects/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"F:/Unreal Engine 5 Projects/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"F:/Unreal Engine 5 Projects/ObstacleAssault/Content/BP_MovingPlatform.uasset",
+				"F:/Unreal Engine 5 Projects/ObstacleAssault/Content/BP_PushingCube.uasset",
+				"F:/Unreal Engine 5 Projects/ObstacleAssault/Content/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.uasset",
+				"F:/Unreal Engine 5 Projects/ObstacleAssault/Content/BP_ObstacleAssaultGameMode.uasset",
+				"F:/Unreal Engine 5 Projects/ObstacleAssault/Content/BP_RotatingPlatform.uasset"
+			]
+		}
+	]
+}

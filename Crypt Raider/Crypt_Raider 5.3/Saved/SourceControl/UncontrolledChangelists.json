@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Unreal Engine 5 Projects/Unreal-Engine-5-C-Developer-Learn-C-Make-Video-Games/Crypt Raider/Crypt_Raider 5.3/Content/Dungeon.umap",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider/Content/Dungeon.umap",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider/Content/MedievalDungeon/Maps/Demonstration.umap",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider/Content/BP_Torch_Dungeon.uasset",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider/Content/BP_Player.uasset",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider/Content/BP_CryptRaiderGamemode.uasset",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider 5.3/Content/Dungeon.umap",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider 5.3/Content/BP_SecretWall.uasset",
+				"F:/Unreal Engine 5 Projects/Crypt Raider/Crypt_Raider 5.3/Content/BP_Torch_Dungeon.uasset"
+			]
+		}
+	]
+}

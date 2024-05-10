@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Unreal Engine 5 Projects/Warehouse Wreckage/WarehouseWreckage/Content/StarterContent/Props/MaterialSphere.uasset",
+				"F:/Unreal Engine 5 Projects/Warehouse Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"F:/Unreal Engine 5 Projects/Warehouse Wreckage/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"F:/Unreal Engine 5 Projects/Warehouse Wreckage/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"F:/Unreal Engine 5 Projects/Warehouse Wreckage/WarehouseWreckage/Content/Main.umap",
+				"F:/Unreal Engine 5 Projects/Warehouse Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"F:/Unreal Engine 5 Projects/Warehouse Wreckage/WarehouseWreckage/Content/BP_Barrel.uasset"
+			]
+		}
+	]
+}

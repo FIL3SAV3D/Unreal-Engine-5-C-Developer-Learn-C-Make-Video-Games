@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Unreal Engine 5 Projects\\Unreal-Engine-5-C-Developer-Learn-C-Make-Video-Games\\Crypt Raider\\Crypt_Raider 5.3\\Source\\Crypt_Raider\\Crypt_Raider.Build.cs",
+		"F:\\Unreal Engine 5 Projects\\Unreal-Engine-5-C-Developer-Learn-C-Make-Video-Games\\Crypt Raider\\Crypt_Raider 5.3\\Source\\Crypt_Raider.Target.cs",
+		"F:\\Unreal Engine 5 Projects\\Unreal-Engine-5-C-Developer-Learn-C-Make-Video-Games\\Crypt Raider\\Crypt_Raider 5.3\\Source\\Crypt_RaiderEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\unrealgame\\inc\\crypt_raider\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\x64\\crypt_raider\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\x64\\unrealgame\\development\\crypt_raider\\definitions.crypt_raider.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\source\\crypt_raider\\tp_weaponcomponent.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\unrealgame\\inc\\crypt_raider\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

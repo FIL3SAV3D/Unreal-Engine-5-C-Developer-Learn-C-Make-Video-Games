@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine 5 projects\\unreal-engine-5-c-developer-learn-c-make-video-games\\crypt raider\\crypt_raider 5.3\\source\\crypt_raider\\crypt_raider.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine 5 projects\\unreal-engine-5-c-developer-learn-c-make-video-games\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\x64\\crypt_raidereditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\unreal engine 5 projects\\unreal-engine-5-c-developer-learn-c-make-video-games\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crypt_raider\\definitions.crypt_raider.h",
+            "f:\\unreal engine 5 projects\\unreal-engine-5-c-developer-learn-c-make-video-games\\crypt raider\\crypt_raider 5.3\\source\\crypt_raider\\crypt_raider.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

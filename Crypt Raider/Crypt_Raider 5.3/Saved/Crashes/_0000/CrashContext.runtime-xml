@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>591E503B4395D3F9E0C4E7BE58C787E9</ExecutionGuid>
+<CrashGUID>_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsStall>false</IsStall>
+<IsAssert>true</IsAssert>
+<CrashType>Assert</CrashType>
+<ErrorMessage>Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Internationalization\ICUInternationalization.cpp] [Line: 156] 
+ICU data directory was not discovered:
+../../../Crypt_Raider 5.3/Content/Internationalization
+../../../Engine/Content/Internationalization
+
+
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<AttendedStatus></AttendedStatus>
+<ProcessId>0</ProcessId>
+<SecondsSinceStart>0</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsWithDebugInfo>false</IsWithDebugInfo>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE-Crypt_Raider</GameName>
+<ExecutableName></ExecutableName>
+<BuildConfiguration></BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName></PlatformName>
+<PlatformFullName></PlatformFullName>
+<PlatformNameIni></PlatformNameIni>
+<EngineMode></EngineMode>
+<EngineModeEx></EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion></EngineVersion>
+<EngineCompatibleVersion></EngineCompatibleVersion>
+<CommandLine></CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale></AppDefaultLocale>
+<BuildVersion></BuildVersion>
+<Symbols></Symbols>
+<IsUERelease>false</IsUERelease>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir></BaseDir>
+<RootDir></RootDir>
+<MachineId></MachineId>
+<LoginId></LoginId>
+<EpicAccountId></EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>0</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>0</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor></Misc.CPUVendor>
+<Misc.CPUBrand></Misc.CPUBrand>
+<Misc.PrimaryGPUBrand></Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor></Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>68644003840</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>72938971136</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>64</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>47588343808</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>47936745472</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>121692160</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>121692160</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>57327616</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>57335808</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>4</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+
+Crypt_Raider  0x00007ff7b94a0000 + e34230          
+Crypt_Raider  0x00007ff7b94a0000 + e25638          
+Crypt_Raider  0x00007ff7b94a0000 + e9e0bb          
+Crypt_Raider  0x00007ff7b94a0000 + 80bab7c         
+Crypt_Raider  0x00007ff7b94a0000 + 80d20c1         
+Crypt_Raider  0x00007ff7b94a0000 + 80c6952         
+Crypt_Raider  0x00007ff7b94a0000 + 80c6cca         
+Crypt_Raider  0x00007ff7b94a0000 + 80c9b76         
+Crypt_Raider  0x00007ff7b94a0000 + 80d9764         
+Crypt_Raider  0x00007ff7b94a0000 + b688f7a         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</PCallStack>
+<PCallStackHash>58401037E54B8926D2E957DEB2CD38C7106458AC</PCallStackHash>
+<Threads><Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 11d2d30         
+Crypt_Raider  0x00007ff7b94a0000 + b6eec9e         
+VCRUNTIME140  0x00007ff8f29e0000 + f73f            
+ntdll         0x00007ff91cbd0000 + a49ff           
+ntdll         0x00007ff91cbd0000 + 1e466           
+ntdll         0x00007ff91cbd0000 + 54465           
+KERNELBASE    0x00007ff91a130000 + 6543c           
+Crypt_Raider  0x00007ff7b94a0000 + 11d6eb0         
+Crypt_Raider  0x00007ff7b94a0000 + 100e980         
+Crypt_Raider  0x00007ff7b94a0000 + f219fd          
+Crypt_Raider  0x00007ff7b94a0000 + e34230          
+Crypt_Raider  0x00007ff7b94a0000 + e25638          
+Crypt_Raider  0x00007ff7b94a0000 + e9e0bb          
+Crypt_Raider  0x00007ff7b94a0000 + 80bab7c         
+Crypt_Raider  0x00007ff7b94a0000 + 80d20c1         
+Crypt_Raider  0x00007ff7b94a0000 + 80c6952         
+Crypt_Raider  0x00007ff7b94a0000 + 80c6cca         
+Crypt_Raider  0x00007ff7b94a0000 + 80c9b76         
+Crypt_Raider  0x00007ff7b94a0000 + 80d9764         
+Crypt_Raider  0x00007ff7b94a0000 + b688f7a         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>true</IsCrashed>
+<Registers></Registers>
+<ThreadID>3952</ThreadID>
+<ThreadName>GameThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22656</ThreadID>
+<ThreadName>Foreground Worker #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>34340</ThreadID>
+<ThreadName>Foreground Worker #1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>33140</ThreadID>
+<ThreadName>Background Worker #2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>29748</ThreadID>
+<ThreadName>Background Worker #3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>33148</ThreadID>
+<ThreadName>Background Worker #4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20376</ThreadID>
+<ThreadName>Background Worker #5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>32772</ThreadID>
+<ThreadName>Background Worker #6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12572</ThreadID>
+<ThreadName>Background Worker #7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>29292</ThreadID>
+<ThreadName>Background Worker #8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + ca78db          
+Crypt_Raider  0x00007ff7b94a0000 + caa2b7          
+Crypt_Raider  0x00007ff7b94a0000 + c747d0          
+Crypt_Raider  0x00007ff7b94a0000 + e4d023          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>33060</ThreadID>
+<ThreadName>Background Worker #9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + e4cc18          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18152</ThreadID>
+<ThreadName>BackgroundThreadPool #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9f9d4           
+KERNELBASE    0x00007ff91a130000 + 3427e           
+Crypt_Raider  0x00007ff7b94a0000 + 12aaa97         
+Crypt_Raider  0x00007ff7b94a0000 + e4cc18          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18548</ThreadID>
+<ThreadName>BackgroundThreadPool #1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ff91cbd0000 + 9ffd4           
+ntdll         0x00007ff91cbd0000 + 551a3           
+KERNELBASE    0x00007ff91a130000 + 44e1d           
+Crypt_Raider  0x00007ff7b94a0000 + e4cf78          
+Crypt_Raider  0x00007ff7b94a0000 + 124eae2         
+Crypt_Raider  0x00007ff7b94a0000 + 1242537         
+KERNEL32      0x00007ff91b510000 + 1257d           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4716</ThreadID>
+<ThreadName>FHeartBeatThread</ThreadName>
+</Thread>
+</Threads>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>false</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+<CrashTrigger>0</CrashTrigger>
+</PlatformProperties>
+<EngineData>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>

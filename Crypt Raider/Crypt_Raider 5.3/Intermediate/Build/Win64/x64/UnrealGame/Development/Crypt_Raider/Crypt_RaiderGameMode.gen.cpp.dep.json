@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\unrealgame\\inc\\crypt_raider\\uht\\crypt_raidergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\x64\\crypt_raider\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\x64\\unrealgame\\development\\crypt_raider\\definitions.crypt_raider.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\source\\crypt_raider\\crypt_raidergamemode.h",
+            "f:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "f:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\unreal engine 5 projects\\crypt raider\\crypt_raider 5.3\\intermediate\\build\\win64\\unrealgame\\inc\\crypt_raider\\uht\\crypt_raidergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
